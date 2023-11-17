@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
 
-<h2 alihn="center">Frontend Developer</h2>
-------------------
+<h2 align="center">Frontend Developer</h2>
+
 I am a Front-end Developer who loves continuous learning .
 <ul>
 	<li> 🌍  I'm based in Kigali, Rwanda*</li>
@@ -46,13 +46,17 @@ I am a Front-end Developer who loves continuous learning .
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mulbahoplanojames&show_icons=true&theme=transparent&hide_title=true)](https://github.com/mulbahoplanojames)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/mulbahoplanojames)|![mulbahoplanojames](https://github-readme-streak-stats.herokuapp.com/?user=mulbahoplanojames&theme=transparent)
 <hr>
 
+<!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/oplanojamesmulbah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/oplanojamesmulbah"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
 
