@@ -1,14 +1,16 @@
 <h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
-===========================================================================================================================================
+
 Frontend Developer
 ------------------
 I am a Front-end Developer who loves continuous learning .
-*  🌍  I'm based in Kigali, Rwanda* 🖥️  See my portfolio at [MyPortfolio](http://mulbahoplanojames.github.io/Portfolio/)*
-*  ✉️  You can contact me at [mulbahjamesoplano@gmail.com](mailto:mulbahjamesoplano@gmail.com)
-*  🚀  I'm currently working on [A Math for Kids App](http://statuesque-daffodil-5d3d9d.netlify.app/)
-*  🧠  I'm learning ReactJs a javaScript Library
-*  🤝  I'm open to collaborating on Projects
-*  ⚡  I am an Ethical FrontEnd Developer
+<ul>
+	<li> 🌍  I'm based in Kigali, Rwanda*</li>
+	<li> 🖥️  See my portfolio at [MyPortfolio](http://mulbahoplanojames.github.io/Portfolio/)</li>
+	<li>  ✉️  You can contact me at [mulbahjamesoplano@gmail.com](mailto:mulbahjamesoplano@gmail.com)</li>
+	<li>🧠  I'm learning ReactJs a javaScript Library</li>
+	<li>🤝  I'm open to collaborating on Projects</li>
+	<li>⚡  I am an Ethical FrontEnd Developer</li>
+</ul>
 
 <a href="https://www.github.com/mulbahoplanojames " target="_blank" rel="noreferrer">
 	<img src="https://img.shields.io/github/followers/mulbahoplanojames ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
