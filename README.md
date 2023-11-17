@@ -43,22 +43,6 @@ I am a Front-end Developer who loves continuous learning .
 </a>
 </p>
 
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/oplanojamesmulbah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/oplanojamesmulbah"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
-
 <!-- START NEW SECTION -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
@@ -67,3 +51,14 @@ I am a Front-end Developer who loves continuous learning .
 |-|-|-|
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mulbahoplanojames&show_icons=true&theme=transparent&hide_title=true)](https://github.com/mulbahoplanojames)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/mulbahoplanojames)|![mulbahoplanojames](https://github-readme-streak-stats.herokuapp.com/?user=mulbahoplanojames&theme=transparent)
 <hr>
+
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/oplanojamesmulbah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/oplanojamesmulbah"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+</ul>
+
