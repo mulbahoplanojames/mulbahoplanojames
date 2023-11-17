@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oplano James Mulbah
+<h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
 ===========================================================================================================================================
 Frontend Developer
 ------------------
@@ -16,17 +16,6 @@ I am a Front-end Developer who loves continuous learning .
 <a href="https://www.x.com/@OplanoJ" target="_blank" rel="noreferrer">
 	<img src="https://img.shields.io/twitter/follow/@OplanoJ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
-
-
-<h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
-I'm a Software Engineer in Rwanda, specializing in frontend development. I also explore fullstack development with Node JS, Firebase, and Supabase. Fun fact: I'm a Protagonist, a Gemini, and a Stoic, bringing charisma, adaptability, and calm to the tech world.
-</p>
-
-
 
 ### Skills
 <p align="left">
