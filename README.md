@@ -1,12 +1,12 @@
 <h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
 
-Frontend Developer
+<h2 alihn="center">Frontend Developer</h2>
 ------------------
 I am a Front-end Developer who loves continuous learning .
 <ul>
 	<li> 🌍  I'm based in Kigali, Rwanda*</li>
 	<li> 🖥️  See my portfolio at [MyPortfolio](http://mulbahoplanojames.github.io/Portfolio/)</li>
-	<li>  ✉️  You can contact me at [mulbahjamesoplano@gmail.com](mailto:mulbahjamesoplano@gmail.com)</li>
+	<li>  ✉️  You can contact me at [mulbahjamesoplano@gmail.com](mulbahjamesoplano@gmail.com)</li>
 	<li>🧠  I'm learning ReactJs a javaScript Library</li>
 	<li>🤝  I'm open to collaborating on Projects</li>
 	<li>⚡  I am an Ethical FrontEnd Developer</li>
@@ -31,18 +31,10 @@ I am a Front-end Developer who loves continuous learning .
 <a href="https://www.github.com/mulbahoplanojames " target="_blank" rel="noreferrer"> 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 </picture> 
-</a> 
-<a href="http://www.instagram.com/oplanojames" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-</picture> 
-</a> 
+</a>
 <a href="https://www.x.com/@OplanoJ" target="_blank" rel="noreferrer"> 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.youtube.com/@OplanoTutorials" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> 
-</a>
+</picture>
 </p>
 
 <!-- START NEW SECTION -->
