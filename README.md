@@ -1,50 +1,42 @@
-<h2 align="center">Hi there, I'm Oplano James Mulbah! 👋</h2>
+<h1 align="center">Hi 👋, I'm OPLANO JAMES MULBAH</h1>
+<h3 align="center">I am a front-end developer who is passionate about my work and always eager to learn more.</h3>
 
-<h2 align="center">Frontend Developer</h2>
+- 🔭 I’m currently working on [I am excited to announce that I am building a website where I can inspire and connect with others through my e-books and blog posts.](devtech-ebook-blog.netlify.app/)
 
-I am a Front-end Developer who loves continuous learning .
-<ul>
-	<li> 🌍  I'm based in Kigali, Rwanda*</li>
-	<li> 🖥️  See my portfolio at [MyPortfolio](http://mulbahoplanojames.github.io/Portfolio/)</li>
-	<li>  ✉️  You can contact me at [mulbahjamesoplano@gmail.com](mulbahjamesoplano@gmail.com)</li>
-	<li>🧠  I'm learning ReactJs a javaScript Library</li>
-	<li>🤝  I'm open to collaborating on Projects</li>
-	<li>⚡  I am an Ethical FrontEnd Developer</li>
-</ul>
+- 🌱 I’m currently learning **React js**
 
-<a href="https://www.github.com/mulbahoplanojames " target="_blank" rel="noreferrer">
-	<img src="https://img.shields.io/github/followers/mulbahoplanojames ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-<a href="https://www.x.com/@OplanoJ" target="_blank" rel="noreferrer">
-	<img src="https://img.shields.io/twitter/follow/@OplanoJ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+- 👯 I'm open to collaborating on Projects **Any Front-end Project**
 
-### Skills
+- 🤝 I’m looking for help with **More Front-end projects ideas**
+
+- 👨‍💻 All of my projects are available at [not ready yet](not ready yet)
+
+- 💬 Ask me about **React, JavaScript, HTML, CSS, tailwind**
+
+- 📫 How to reach me **mulbahjamesoplano@gmail.com**
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulbahoplanojames&label=Profile%20views&color=0e75b6&style=flat" alt="mulbahoplanojames" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulbahoplanojames" alt="mulbahoplanojames" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@oplanoj" target="blank"><img src="https://img.shields.io/twitter/follow/@oplanoj?logo=twitter&style=for-the-badge" alt="@oplanoj" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
-
-### Socials
-<p align="left"> 
-<a href="https://www.facebook.com/oplano james mulbah" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture>
-</a> 
-<a href="https://www.github.com/mulbahoplanojames " target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</picture> 
-</a>
-<a href="https://www.x.com/@OplanoJ" target="_blank" rel="noreferrer"> 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-</picture>
+<a href="https://twitter.com/@oplanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@oplanoj" height="30" width="40" /></a>
+<a href="https://fb.com/oplanomulbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oplanomulbah" height="30" width="40" /></a>
+<a href="https://instagram.com/oplanojames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oplanojames" height="30" width="40" /></a>
 </p>
 
-<!-- START NEW SECTION -->
-<p align="center">
- <h2 align="center">My Github Stats</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=mulbahoplanojames&show_icons=true&theme=transparent&hide_title=true)](https://github.com/mulbahoplanojames)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codinglone&show_icons=true&theme=transparent&layout=compact&hide_title=true)](https://github.com/mulbahoplanojames)|![mulbahoplanojames](https://github-readme-streak-stats.herokuapp.com/?user=mulbahoplanojames&theme=transparent)
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulbahoplanojames&show_icons=true&locale=en&layout=compact" alt="mulbahoplanojames" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulbahoplanojames&show_icons=true&locale=en" alt="mulbahoplanojames" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulbahoplanojames&" alt="mulbahoplanojames" /></p>
+
 
 <!-- START NEW SECTION -->
 <div align="center">
