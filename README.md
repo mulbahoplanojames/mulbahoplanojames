@@ -1,46 +1,68 @@
-<h1 align="center">Hi 👋, I'm OPLANO JAMES MULBAH</h1>
-<h3 align="center">I am a front-end developer passionate about my work and eager to learn more.</h3>
-<br />
+# Hi, I'm Oplano James Mulbah 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mulbahoplanojames&label=Profile%20views&color=0e75b6&style=flat" alt="mulbahoplanojames" /> </p>
+I'm a passionate front-end developer with a strong background in creating visually appealing and user-friendly web interfaces. I specialize in turning designs into fully functional websites using modern technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulbahoplanojames" alt="mulbahoplanojames" /></a> </p>
+## 🚀 Skills & Expertise
 
-<p align="left"> <a href="https://twitter.com/@oplanoj" target="blank"><img src="https://img.shields.io/twitter/follow/@oplanoj?logo=twitter&style=for-the-badge" alt="@oplanoj" /></a> </p>
-<br />
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React, Redux, Tailwind CSS, 
+- **Tools**: Git, ESLint, Prettier, Figma
+- **Responsive Design**: Expertise in building responsive and adaptive layouts that work seamlessly across devices.
+- **Performance Optimization**: Focused on writing clean, efficient code that enhances website performance.
+- **Cross-Browser Compatibility**: Ensuring consistent user experience across different browsers.
+
+## 💼 Projects
+
+### [Naa-Kaai-Kai Enterprise](https://naa-kaai-kai-enterprise.vercel.app/)
+This will be added later
+
+### [Portfolio Project](https://oplanojames.vercel.app/)
+- **Tech Stack**: React, TypeScript, Tailwind CSS, Aceternity UI
+- **Description**: This portfolio project, built with React and TypeScript, highlights my skills and services, along with a blog featuring various posts on programming and web development.
+  
+- **Features**:
+  - Service Offerings: Showcase of services provided, including website development for clients.
+  - Blog: A collection of informative posts on programming and web development topics
+  - Contact: A contact section for potential clients to reach out for website development services.
+  - Contact: React Router: Efficient client-side routing with React Router.
+  - Modular Codebase: Clean and maintainable code with components separated by concern.
+  - Responsive Design: Optimized for various screen sizes.
 
 
-- 🔭 I’m currently working on [I am excited to announce that I am building a website where I can inspire and connect with others through my e-books and blog posts.](devtech-ebook-blog.netlify.app/)
+## 📚 Blog
 
-- 🌱 I’m currently learning **React js**
+I regularly write about front-end development, sharing tips, tutorials, and insights into the latest web technologies.
 
-- 👯 I'm open to collaborating on Projects **Any Front-end Project**
+- [HTML TAGS](https://oplanojames.vercel.app/html-tags)
+- [How to Learn Python in 2024: A Comprehensive Guide](https://oplanojames.vercel.app/python-in-2024)
+- [Getting Started with JavaScript Functions: A Beginner's Guide](https://oplanojames.vercel.app/javascript-functions)
 
-- 🤝 I’m looking for help with **More Front-end projects ideas**
+## 🛠️ Services
 
-- 👨‍💻 All of my projects are available at [not ready yet](not ready yet)
+I offer a range of front-end development services, including:
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, tailwind**
+- Custom website development
+- Responsive design implementation
+- Performance optimization
+- Website maintenance and updates
 
-- 📫 How to reach me **mulbahjamesoplano@gmail.com**
+## 📫 Contact Me
 
-<br/>
+I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@oplanoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@oplanoj" height="30" width="40" /></a>
-<a href="https://fb.com/oplanomulbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oplanomulbah" height="30" width="40" /></a>
-<a href="https://instagram.com/oplanojames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oplanojames" height="30" width="40" /></a>
-</p>
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
+
+## 🌟 Let's Connect
+
+I'm active on [Twitter](https://twitter.com/yourprofile) and [GitHub](https://github.com/yourusername), where I share my work, thoughts on web development, and engage with the community.
+
+
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulbahoplanojames&show_icons=true&locale=en&layout=compact" alt="mulbahoplanojames" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mulbahoplanojames&show_icons=true&locale=en" alt="mulbahoplanojames" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mulbahoplanojames&" alt="mulbahoplanojames" /></p>
 
 
 <!-- START NEW SECTION -->
@@ -52,7 +74,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
  
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+
 <br>
 </div>
 
