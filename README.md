@@ -33,7 +33,7 @@ This will be added later
 
 I regularly write about front-end development, sharing tips, tutorials, and insights into the latest web technologies.
 
-- [HTML TAGS](https://oplanojames.vercel.app/html-tags)
+- [HTML TAGS](https://oplanojames.vercel.app/blog/html-tags)
 - [How to Learn Python in 2024: A Comprehensive Guide](https://oplanojames.vercel.app/python-in-2024)
 - [Getting Started with JavaScript Functions: A Beginner's Guide](https://oplanojames.vercel.app/javascript-functions)
 
