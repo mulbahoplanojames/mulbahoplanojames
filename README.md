@@ -35,7 +35,7 @@ I regularly write about front-end development, sharing tips, tutorials, and insi
 
 - [HTML TAGS](https://oplanojames.vercel.app/blog/html-tags)
 - [How to Learn Python in 2024: A Comprehensive Guide](https://oplanojames.vercel.app/blog/how-to-learn-python-in-2024)
-- [Getting Started with JavaScript Functions: A Beginner's Guide](https://oplanojames.vercel.app/javascript-functions)
+- [Getting Started with JavaScript Functions: A Beginner's Guide](https://oplanojames.vercel.app/blog/getting-started-with-javaScript)
 
 ## 🛠️ Services
 
