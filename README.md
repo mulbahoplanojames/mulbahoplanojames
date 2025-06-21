@@ -1,18 +1,6 @@
 # Hi, I'm Oplano James Mulbah 👋
 
-I'm a Software Engineer with a strong background in creating visually appealing and user-friendly web interfaces. I specialize in turning designs into fully functional websites using modern technologies.
-
-## 🚀 Skills & Expertise
-
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Redux, Tailwind CSS, Next.js
-- **Tools**: Git, ESLint, Prettier, Figma
-- **Responsive Design**: Expertise in building responsive and adaptive layouts that work seamlessly across devices.
-- **Performance Optimization**: Focused on writing clean, efficient code that enhances website performance.
-- **Cross-Browser Compatibility**: Ensuring consistent user experience across different browsers.
-
-## 💼 Projects
-
+🎯 Software Engineer | Agile Methodologies | UI/UX Advocate | Figma Designer | Transforming Concepts into Interactive Experiences
 
 ## 📚 Blog
 
