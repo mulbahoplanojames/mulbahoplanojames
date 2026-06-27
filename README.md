@@ -1,15 +1,76 @@
 # Hi, I'm Oplano James Mulbah 👋
 
-🎯 Software Engineer | Agile Methodologies | UI/UX Advocate | Figma Designer | Transforming Concepts into Interactive Experiences
+Software Engineer | Agile Methodologies | Full-Stack Web Developer | UI/UX Designer
 
-## 🛠️ Services
+I build scalable, user-focused web applications and software that solve real-world problems. I enjoy turning ideas into intuitive digital experiences through clean code, thoughtful design, and modern development practices.
 
-I offer a range of development services, including:
+ ## About Me
+ 
+- 💻 Full-Stack Software Engineer
+- 🎨 Passionate about UI/UX Design and Product Development
+- 🌱 Continuously learning modern web technologies and software architecture
+- 🤝 Open to Open Source collaboration and impactful projects
+- ⚡ Strong advocate for clean code, accessibility, and great user experiences
 
-- Custom website development
-- Responsive design implementation
-- Performance optimization
-- Website maintenance and updates
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- TanStack Start
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Prisma
+
+### Tools
+
+- Git & GitHub
+- Figma
+- Docker
+- Postman
+- VS Code
+
+## 📌 What I Build
+
+- Full-Stack Web Applications
+- SaaS Platforms
+- Management Systems
+- REST APIs
+- Admin Dashboards
+- Responsive Websites
+- UI/UX Prototypes
+  
+## 🌍 Currently Working On
+
+- Modern Healthcare Management Platform
+- University Sports Management System
+- Open Source Contributions
+- AI-powered Web Applications
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- Open Source Projects
+- Full-Stack Applications
+- React & Next.js Projects
+- Node.js APIs
+- UI/UX Design
+- Software Engineering Projects
 
 ## 📫 Contact Me
 
